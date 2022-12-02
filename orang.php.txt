@@ -1,0 +1,8 @@
+<?php
+  class orang{
+      public $nama; var $nama; untuk PHP4
+      function UcapSalam() {
+	 echo "Hallo. Nama saya adalah $this->nama";
+	}
+}
+?>
